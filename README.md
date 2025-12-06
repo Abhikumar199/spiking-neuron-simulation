@@ -1,1 +1,68 @@
-# hoc_coding
+<h1 align="center"> HOC Coding & NEURON Simulation Repository</h1>
+
+<p align="center">
+  <strong>Computational Neuroscience • Hodgkin–Huxley Modeling • NEURON Simulator • NeuroAI</strong>
+</p>
+
+<p align="center">
+  A complete beginner-to-advanced guide for learning HOC, NEURON, Python integration, ion channel modeling, 
+  and electrophysiological simulations.
+</p>
+
+---
+
+## Overview
+
+This repository is a comprehensive collection of:
+
+- ✔ HOC scripts  
+- ✔ Python–NEURON integration examples  
+- ✔ Hodgkin–Huxley (HH) models  
+- ✔ Compartmental neuron modeling  
+- ✔ Current clamp stimulation  
+- ✔ Documentation & explanations  
+- ✔ Visualization of membrane voltage and ion currents  
+
+It is designed for students, researchers, and engineers in **Computational Neuroscience, NeuroAI, Biomedical Engineering, AI + Brain modeling**, and anyone learning the NEURON simulator.
+
+---
+
+#  **What You Will Learn**
+
+### 🔹 Basics of NEURON & HOC  
+- What is a `Section`?  
+- Understanding `soma`, dendrites, etc.  
+- Membrane mechanisms (`hh`, `pas`, etc.)  
+- Recording of variables  
+
+### 🔹 Ion Channel Dynamics  
+- Sodium current (`ina`)  
+- Potassium current (`ik`)  
+- Leak current (`il`)  
+- Gating variables (`m`, `h`, `n`)  
+
+### 🔹 Python + NEURON  
+- Running NEURON from Python  
+- Using `h.load_file("stdrun.hoc")`  
+- Recording vectors & plotting  
+
+### 🔹 Building Realistic Neuron Models  
+- Multi-compartment modeling  
+- Injecting currents  
+- Generating spikes  
+- Plotting voltage traces & ionic currents  
+
+---
+
+#  Installation Guide
+
+## Install NEURON
+
+You can install NEURON via website:
+
+https://neuron.yale.edu/neuron/
+
+Or via pip:
+
+```bash
+pip install neuron
