@@ -15,7 +15,7 @@
 
 This repository is a comprehensive collection of:
 
-- ✔ HOC scripts  
+- ✔ HOC scripts + Description
 - ✔ Python–NEURON integration examples  
 - ✔ Hodgkin–Huxley (HH) models  
 - ✔ Compartmental neuron modeling  
@@ -27,7 +27,7 @@ It is designed for students, researchers, and engineers in **Computational Neuro
 
 ---
 
-#  **What You Will Learn**
+#  **What WE Will Learn**
 
 ### 🔹 Basics of NEURON & HOC  
 - What is a `Section`?  
@@ -58,7 +58,7 @@ It is designed for students, researchers, and engineers in **Computational Neuro
 
 ## Install NEURON
 
-You can install NEURON via website:
+We can install NEURON via website:
 
 https://neuron.yale.edu/neuron/
 
