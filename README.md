@@ -66,3 +66,10 @@ Or via pip:
 
 ```bash
 pip install neuron
+
+
+
+
+## Parameter Perturbation & Spike Analysis
+
+Parameter perturbation analysis was performed by systematically varying the sodium channel conductance while keeping all other parameters constant. For each perturbation, neuronal activity was simulated using a Hodgkin–Huxley model, and spike times were detected using a voltage threshold crossing method. Increasing sodium conductance led to enhanced excitability and increased firing rates, while reduced conductance suppressed spike generation. This demonstrates the sensitivity of spike dynamics to ion-channel parameters.
