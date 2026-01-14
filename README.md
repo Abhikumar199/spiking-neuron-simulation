@@ -23,11 +23,11 @@ This repository is a comprehensive collection of:
 - ✔ Documentation & explanations  
 - ✔ Visualization of membrane voltage and ion currents  
 
-It is designed for students, researchers, and engineers in **Computational Neuroscience, NeuroAI, Biomedical Engineering, AI + Brain modeling**, and anyone learning the NEURON simulator.
+It is for prcatice  in **Computational Neuroscience, Biomedical Engineering, AI + Brain modeling**,
 
 ---
 
-#  **What WE Will Learn**
+#  **What Will Learn**
 
 ### 🔹 Basics of NEURON & HOC  
 - What is a `Section`?  
@@ -58,7 +58,7 @@ It is designed for students, researchers, and engineers in **Computational Neuro
 
 ## Install NEURON
 
-We can install NEURON via website:
+ install NEURON via website:
 
 https://neuron.yale.edu/neuron/
 
